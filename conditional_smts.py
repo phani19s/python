@@ -1,42 +1,4 @@
 '''
-#check even or odd
-
-n=int(input())
-if n%2==0:
-    print("Even")
-else:
-    print("Odd")
-''''''
-#Divisible by 5 and 10
-
-n=int(input())
-if n%5==0 and n%10==0:
-    print("Divisible")
-else:
-    print("Not Divisible")
-''''''
-#Biggest among two nums
-
-a=int(input())
-b=int(input())
-if a>b:
-    print("a is biggest")
-elif a<b:
-    print("b is biggest")
-else:
-    print("Equal")
-''''''
-#Smallest among two nums
-
-a=int(input())
-b=int(input())
-if a<b:
-    print("a is smallest")
-elif a>b:
-    print("b is smallest")
-else:
-    print("equal")
-''''''
 #Divisible by 2,3 and 6
 
 n=int(input())
